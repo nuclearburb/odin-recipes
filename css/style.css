@@ -1,0 +1,26 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+  }
+
+h1 {
+    font-weight: 800px;
+    color: blue;
+    text-align: center;
+}
+ul {
+    font-size: 24px;
+    font-weight: 1000;
+}
+ol {
+    font-size: 30px;
+    color:red;
+}
+.opis {
+    font-size: 30px;
+    color:red;
+    background-color: black;
+}
+img {
+    height: auto;
+    width: 500px;
+}
